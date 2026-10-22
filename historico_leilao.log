@@ -1,0 +1,12 @@
+[22/10/2026 20:38:14] INICIO DO LEILAO | Item: Notebook Gamer | Valor Inicial: R$ 100.00 | Duracao: 45s
+[22/10/2026 20:38:56] CONEXAO | Cliente 'Jerry' conectou-se.
+[22/10/2026 20:38:59] FIM DO LEILAO | Vencedor: Nenhum (Valor Inicial) | Valor Final: R$ 100.00
+[22/10/2026 20:43:09] INICIO DO LEILAO | Item: Notebook Gamer | Valor Inicial: R$ 100.00 | Duracao: 80s
+[22/10/2026 20:44:29] FIM DO LEILAO | Vencedor: Nenhum (Valor Inicial) | Valor Final: R$ 100.00
+[22/10/2026 20:45:33] INICIO DO LEILAO | Item:  | Valor Inicial: R$ 0.00 | Duracao: 11010048s
+[22/10/2026 20:46:30] INICIO DO LEILAO | Item: Notebook Gamer | Valor Inicial: R$ 100.00 | Duracao: 80s
+[22/10/2026 20:46:56] CONEXAO | Cliente 'Jerry' conectou-se.
+[22/10/2026 20:47:08] LANCE ACEITO | Cliente: Jerry | Valor: R$ 1150.00 | Restante: 42s
+[22/10/2026 20:47:24] LANCE RECUSADO | Cliente: Jerry | Tentou: R$ 700.00 (Atual: R$ 1150.00)
+[22/10/2026 20:47:31] LANCE ACEITO | Cliente: Jerry | Valor: R$ 2000.00 | Restante: 20s
+[22/10/2026 20:47:50] FIM DO LEILAO | Vencedor: Jerry | Valor Final: R$ 2000.00
